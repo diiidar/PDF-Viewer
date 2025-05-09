@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, jsonify, send_file, abort
 from pdf2image import convert_from_path
-from utils.image_processing import preprocess_image
+from PDF_Viewer.image_processing import preprocess_image
 import os
 import cv2 as cv
 import numpy as np
