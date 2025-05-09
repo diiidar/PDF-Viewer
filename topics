@@ -1,0 +1,16 @@
+Computer Vision Course Topics:
+
+Image Reading
+Image Writing
+
+Drawing Figures
+Adding Text to Image
+
+Applying Bitwise Operations on Image
+Layering Images(cv.addWeighted() or cv.add())
+
+Foreground and Background Extraction
+
+warpAffine to image transformation
+
+Image Inpainting
